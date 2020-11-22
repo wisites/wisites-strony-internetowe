@@ -15,11 +15,9 @@ export default {
             }
         });
     } else;
-
     $('.offer-item').click(function() {
       $(this).toggleClass('active');
     });
-
     $(document).ready(function() {
         $('.projects-container').owlCarousel({
           slideSpeed :1000,
