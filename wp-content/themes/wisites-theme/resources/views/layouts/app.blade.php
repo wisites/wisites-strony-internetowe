@@ -16,6 +16,6 @@
     @include('partials.footer')
     @php wp_footer() @endphp
     <script src="https://kit.fontawesome.com/ee00b15e31.js" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
+    <script src="/wp-content/uploads/owl-carousel/owl.carousel.min.js"></script>
   </body>
 </html>

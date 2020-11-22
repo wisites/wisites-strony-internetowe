@@ -47,7 +47,7 @@
     line-height: 1;
     text-align: center;
     width: 100%;
-    margin: 80px 0 5px 0;
+    margin: 50px 0 5px 0;
 
     span {
       display: block;
@@ -112,7 +112,6 @@
 @media (max-width: 768px) {
   #home-header {
     h1 {
-      margin-top: 50px;
       span {
         font-size: 22px;
       }
@@ -130,7 +129,12 @@
 }
 @media (max-width: 468px) {
   #home-header {
+    height: 640px;
+    figure {
+      height: 640px;
+    }
     h1 {
+      margin-top: 30px;
       font-size: 56px;
       span {
         font-size: 20px;
@@ -773,6 +777,13 @@
           border-color: #fff;
           color: #fff;
         }
+      }
+    }
+    .ff-message-success {
+      background-color: rgba(#000, 0.9);
+      border: 1px solid rgba($gray, 0.7);
+      p {
+        color: #fff;
       }
     }
   }
