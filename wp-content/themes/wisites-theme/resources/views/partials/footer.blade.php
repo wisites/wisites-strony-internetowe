@@ -7,6 +7,7 @@
       <h3>Strony</h3>
         <nav class="footer-nav">
           <a class="f-nav-item" href="/">Home</a>
+          <a class="f-nav-item" target="_blank" href="https://www.facebook.com/wisites.strony.internetowe">Facebook</a>
           <a class="f-nav-item" href="/polityka-prywatnosci">Polityka prywatności</a>
         </nav>
       </div>

@@ -5,11 +5,6 @@
 
 @section('content')
     <section id="home-header" class="nav-section">
-      <figure>
-          <img src="/wp-content/uploads/2020/11/wisites-strony-www-bartoszyce.jpg"
-              alt="Wisites Tworzymy Strony Internetowe">
-          <figcaption>Wisites Tworzymy Strony Internetowe</figcaption>
-      </figure>
       <h1 class="fade-in">Wisites <span>Strony Internetowe</span></h1>
       <p class="fade-in">Web Developer <br/> Freelancer</p>
       <a class="main-btn btn draw-border fade-in" href="#darmowa-wycena">Zapytaj o darmową wycenę</a>
@@ -26,11 +21,6 @@
           <p><strong>Masz pytania?</strong><br>Napisz do mnie, a postaram się wszystko wyjaśnić!</p>
           <a class="main-btn" title="Skontaktuj się ze mną" href="#kontakt">Napisz teraz</a>
         </div>
-        <!--<div class="contact-me">
-          <figure class="me-image">
-            <img src="/wp-content/uploads/2020/11/wisites-jakub-wisniewski.png" />
-          </figure>
-        </div>-->
       </div>
     </div>
     <section class="technologies">

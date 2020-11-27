@@ -16,6 +16,7 @@
     <nav class="nav-primary">
       <div class="before-nav">
         <ul>
+          <li><a href="https://www.facebook.com/wisites.strony.internetowe" target="_blank"><i class="fab fa-facebook-messenger"></i><span>Messenger</span></a></li>
           <li><a href="tel:+48502172553"><i class="fas fa-mobile-alt"></i><span>+48 502 172 553</span></a></li>
           <li><a href="mailto:kontakt@wisites.pl"><i class="far fa-envelope"></i><span>kontakt@wisites.pl</span></a></li>
         </ul>

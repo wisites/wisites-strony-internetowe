@@ -3,12 +3,15 @@ export default {
     // JavaScript to be fired on all pages
     var scroll;
     var header = $('.banner');
+    var contact = $('.contact-container');
     if($( window ).width() > 200) { 
         $(window).scroll(function() {    
             scroll = $(window).scrollTop();
             if (scroll >= 10) {
               header.addClass('sticky-banner');
+              contact.addClass('sticky-contact');
             } else {
+              contact.removeClass('sticky-contact');
                 setTimeout(function(){
                   header.removeClass('sticky-banner');
                 }, 100);

@@ -14,7 +14,7 @@ body {
   height: auto;
   margin: 0 auto;
   font-family: $lato;
-
+  position: relative;
   @media (max-width: 768px) {
     font-size: 14px;
   }
