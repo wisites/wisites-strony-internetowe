@@ -26,5 +26,14 @@
     @php wp_footer() @endphp
     <script async src="https://kit.fontawesome.com/ee00b15e31.js" crossorigin="anonymous"></script>
     <script src="/wp-content/uploads/owl-carousel/owl.carousel.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168354860-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-168354860-1');
+    </script>
   </body>
 </html>
