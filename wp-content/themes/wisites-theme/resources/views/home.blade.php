@@ -15,8 +15,8 @@
       <div class="about-me">
         <div class="description">
         <h3 class="after-line">Kim jestem?</h3>
-          <p class="p-big"><strong>Cześć! Jestem Kuba i zajmuję się tworzeniem stron internetowych, sklepów internetowych, blogów oraz innych rozwiązań dla internetu.</strong></p>
-          <p>Współpracuję z agencją interaktywną <a href="https://redo-interactive">REDO Interactive Group</a> ,która pozwoliła mi na pracę przy wielu ciekawych projektach i na doskonalenie swoich umiejętności.<br>
+          <p class="p-big"><strong>Cześć! Jestem Kuba i zajmuję się tworzeniem stron internetowych oraz innych rozwiązań dla internetu.</strong></p>
+          <p>Współpracuję z agencją interaktywną <a target="_blank" title="REDO Interactive Group" href="https://redo-interactive.com/">REDO Interactive Group</a> ,która pozwoliła mi na pracę przy wielu ciekawych projektach i na doskonalenie swoich umiejętności.<br>
           Obecnie tworzę własne projekty jako <strong>Wisites Strony Internetowe</strong>, które wykonuję od zera. W zależności od preferencji klienta i budżetu dostosowuję metodę realizacji projektu i funkcjonalności. Każdy projekt może być wykonany na gotowym motywie lub na moim autorskim rozwiązaniu oraz przy użyciu page buildera lub bez.</p>
           <p><strong>Masz pytania?</strong><br>Napisz do mnie, a postaram się wszystko wyjaśnić!</p>
           <a class="main-btn" title="Skontaktuj się ze mną" href="#kontakt">Napisz teraz</a>
