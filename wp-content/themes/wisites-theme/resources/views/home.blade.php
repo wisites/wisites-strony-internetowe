@@ -97,7 +97,7 @@
           <img src="/wp-content/uploads/2020/11/naprawy-stron-internetowych-wisites.png" />
         </figure>
         <h3>Naprawy stron internetowych</h3>
-        <p>Jeśli posiadają Państwo stronę, z której nie są Państwo zadowoleni - proszę zapytać o <a href="#darmowa-wycena">darmową wycenę</a>. Często przestarzałe strony nie działają poprawnie, są niefunkcjonalne i brzydkie. Pomagam w optymalizacji stron i odświeżaniu wyglądu stron, które dawno straciły datę ważności. Jeśli na Państwa stronie występuje błąd lub strona nie wyświetla się prawidłowo - na pewno coś poradzimy, wystarczy zgłosić usterkę na mail: <a href="mailto:kontakt@wisites.pl">kontakt@wisites.pl</a></p>
+        <p>Jeśli posiadają Państwo stronę, z której nie są Państwo zadowoleni - proszę zapytać o <a href="#darmowa-wycena">darmową wycenę</a>. Często przestarzałe strony nie działają poprawnie, są niefunkcjonalne i nieestetyczne. Pomagam w optymalizacji stron i odświeżaniu wyglądu stron, które dawno straciły datę ważności. Jeśli na Państwa stronie występuje błąd lub strona nie wyświetla się prawidłowo - na pewno coś poradzimy, wystarczy zgłosić usterkę na mail: <a href="mailto:kontakt@wisites.pl">kontakt@wisites.pl</a></p>
         <a class="offer-more">Więcej</a>
       </div>
       <div class="offer-item">
